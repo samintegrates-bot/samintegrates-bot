@@ -1,6 +1,6 @@
 # Hi, I'm Samarth 👋 
  
-Currently building: AI integration tools for US/UK businesses 
+Currently building: AI integration tools for businesses 
 
 Learning: LangChain, RAG systems, vector databases, FastAPI 
 
