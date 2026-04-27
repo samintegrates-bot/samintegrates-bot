@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Samarth 👋 
+ 
+Currently building: AI integration tools for US/UK businesses 
 
-<!--
-**samintegrates-bot/samintegrates-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning: LangChain, RAG systems, vector databases, FastAPI 
 
-Here are some ideas to get you started:
+Background: Top 1% (Physics) & Top 5% (Math) in National Entrance Exams | Mathematics & Computing @ JIIT-62 | Building Robotics & Software since age 13
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach me: [sam.integrates@gmail.com](mailto:sam.integrates@gmail.com) | [LinkedIn](https://www.linkedin.com/in/samarth-dev-ai)
+ 
+## What I Build 
+→ RAG-powered document intelligence systems 
+→ AI customer support automation 
+→ LLM workflow automation for small businesses 
+ 
+## Tech Stack 
+Python · OpenAI API · Anthropic API · LangChain · ChromaDB 
+FastAPI · Flask · React · PostgreSQL · Docker · Git 
+ 
+## Currently Working On 
+AI knowledge assistant that reads business documents and answers 
