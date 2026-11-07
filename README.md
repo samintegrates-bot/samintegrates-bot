@@ -9,7 +9,7 @@ Reach me: [sam.integrates@gmail.com](mailto:sam.integrates@gmail.com) | [LinkedI
 ## What I Build 
 → RAG-powered document intelligence systems 
 → AI customer support automation 
-→ LLM workflow automation for small businesses 
+→ LLM workflow automation 
  
 ## Tech Stack 
 Python · C · OpenAI API · Anthropic API · LangChain ·
