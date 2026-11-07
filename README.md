@@ -1,10 +1,8 @@
 # Hi, I'm Samarth 👋 
  
-Currently building: AI integration tools for businesses 
+Currently Learning: Programming in C + RAG/AI implementation in real world problems 
 
-Learning: LangChain, RAG systems, vector databases, FastAPI 
-
-Background: Top 1% (Physics) & Top 5% (Math) in National Entrance Exams | Mathematics & Computing @ JIIT-62 | Building Robotics & Software since age 13
+Background: Top 1% (Physics) & Top 5% (Math) in National Entrance Exams | Information & Technology @ JIIT-62 | Data Science & Applications @ IIT-M (9.7 CGPA) | Building Robotics & Software since age 13
 
 Reach me: [sam.integrates@gmail.com](mailto:sam.integrates@gmail.com) | [LinkedIn](https://www.linkedin.com/in/samarth-dev-ai)
  
@@ -14,7 +12,7 @@ Reach me: [sam.integrates@gmail.com](mailto:sam.integrates@gmail.com) | [LinkedI
 → LLM workflow automation for small businesses 
  
 ## Tech Stack 
-Python · OpenAI API · Anthropic API · LangChain · ChromaDB 
+Python · C · OpenAI API · Anthropic API · LangChain ·
 FastAPI · Flask · React · PostgreSQL · Docker · Git 
  
 ## Currently Working On 
